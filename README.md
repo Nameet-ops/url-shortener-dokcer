@@ -33,7 +33,7 @@ cd url-shortener-docker
 2. Spin up the containers:
 ```bash
 docker-compose up -d --build
-
+```
 
 3. The API will be available at `http://localhost:8000`
 4. Swagger UI at `http://localhost:8000/docs`
